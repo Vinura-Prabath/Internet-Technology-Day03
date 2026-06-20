@@ -5,3 +5,12 @@ h1{
     text-align: center;
 }
     
+p{
+    font-size: 20px;
+    color: rgb(224, 43, 7);
+    text-align: justify;
+}
+
+body{
+    background-color: rgb(175, 136, 82);
+}
