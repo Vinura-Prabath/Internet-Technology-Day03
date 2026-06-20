@@ -14,3 +14,9 @@ p{
 body{
     background-color: rgb(175, 136, 82);
 }
+
+.new-h1{
+    background-color: rgb(30, 237, 30);
+    color: rgb(8, 1, 1);
+    text-align: center;
+}
