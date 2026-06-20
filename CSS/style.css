@@ -26,3 +26,12 @@ body{
     color: rgb(125, 7, 136);
     text-align: justify;
 }
+
+
+/* all doc  */
+
+*{
+    background-color: powderblue;
+    margin: 0%;
+    padding: 0%;
+}
